@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nomanariff
+- 👋 Hi, I’m Muhammad Noman Arif
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Game Development
 - 📫 How to reach me naumanshah340@gmail.com
